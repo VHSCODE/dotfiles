@@ -13,4 +13,7 @@ Plug 'preservim/nerdtree'
 Plug 'dense-analysis/ale'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'yggdroot/indentline'
+Plug 'tpope/vim-surround'
+Plug 'mhinz/vim-signify'
 call plug#end()
