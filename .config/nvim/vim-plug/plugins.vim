@@ -16,4 +16,6 @@ Plug 'vim-airline/vim-airline-themes'
 Plug 'yggdroot/indentline'
 Plug 'tpope/vim-surround'
 Plug 'mhinz/vim-signify'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
 call plug#end()
